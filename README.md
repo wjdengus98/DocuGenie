@@ -6,6 +6,10 @@ PDF, DOCX, PPTX 파일을 업로드하고 궁금한 점을 대화로 물어보�
 
 ---
 
+## 📺 데모 영상
+[![Demo Video](https://img.youtube.com/vi/HqXMsq-ZIs0/0.jpg)](https://www.youtube.com/watch?v=HqXMsq-ZIs0)
+
+
 ## 🛠️ 주요 기능
 
 - 다양한 문서 업로드 지원 (PDF, DOCX, PPTX)
@@ -35,7 +39,7 @@ PDF, DOCX, PPTX 파일을 업로드하고 궁금한 점을 대화로 물어보�
 
 2. **Streamlit 앱 실행**
     ```bash
-    streamlit run streamlit_chatbot.py
+    streamlit run Document_chatbot.py
     ```
 
 3. **웹 브라우저에서 챗봇 사용**
@@ -52,7 +56,7 @@ PDF, DOCX, PPTX 파일을 업로드하고 궁금한 점을 대화로 물어보�
 ## 📁 파일 구조
 
 ```
-├── streamlit_chatbot.py
+├── Document_chatbot.py
 ├── requirements.txt
 └── README.md
 ```
