@@ -23,7 +23,7 @@ PDF, DOCX, PPTX 파일을 업로드하고 궁금한 점을 대화로 물어보�
 ## 🧰 사용 기술
 
 - **Python**
-- **OpenAI GPT-4**: 자연어 이해 및 생성
+- **OpenAI GPT-4**: 챗봇 모델 및 자연어 이해 및 생성
 - **LangChain**: 문서 검색(QA) 체인 구성
 - **Streamlit**: 프론트엔드 UI 구성
 - **FAISS / ChromaDB**: 벡터스토어 기반 검색
