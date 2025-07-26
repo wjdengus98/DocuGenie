@@ -60,3 +60,13 @@ PDF, DOCX, PPTX 파일을 업로드하고 궁금한 점을 대화로 물어보�
 ├── requirements.txt
 └── README.md
 ```
+
+## 🔗 데모 체험
+
+Streamlit에서 배포된 DocuGenie를 직접 사용 할 수 있습니다!  
+👉 [https://docugenie-yfmfyolgms4d4prrtvfqtb.streamlit.app](https://docugenie-yfmfyolgms4d4prrtvfqtb.streamlit.app)
+
+- 최대 200MB 문서 업로드(PDF, DOCX, PPTX 지원)
+- OpenAI API Key 입력 후 질문 가능
+
+
